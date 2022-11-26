@@ -1,4 +1,4 @@
 # Direct for self usage
 
 # Bet
-URL-REGEX,^https?:\/\/www\.betvictor\d+\.com
+DOMAIN-KEYWORD,betvictor
