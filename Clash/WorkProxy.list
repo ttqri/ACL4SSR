@@ -79,3 +79,7 @@ DOMAIN-SUFFIX,ydstatic.com
 DOMAIN-SUFFIX,youdao.com
 
 DOMAIN-SUFFIX,zhihu.com
+
+# VPN
+DOMAIN-KEYWORD,socloud
+DOMAIN-KEYWORD,ikuuu
