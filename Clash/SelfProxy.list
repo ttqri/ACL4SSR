@@ -1,3 +1,6 @@
 # Proxy for self usage
 
 DOMAIN-SUFFIX,missav.com
+
+# Pikpack full match domain
+DOMAIN,mypikpak.com
