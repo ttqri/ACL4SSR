@@ -1,9 +1,11 @@
 # The list of domains which doesn't need proxy
 
+# Work internal
 DOMAIN-KEYWORD,naver
 DOMAIN-KEYWORD,navercorp
 DOMAIN-KEYWORD,line
 DOMAIN-KEYWORD,linecorp
+DOMAIN-KEYWORD,works
 
 #网易云音乐
 DOMAIN-SUFFIX,music.126.net
