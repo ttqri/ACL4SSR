@@ -4,3 +4,6 @@ DOMAIN-KEYWORD,naver
 DOMAIN-KEYWORD,navercorp
 DOMAIN-KEYWORD,line
 DOMAIN-KEYWORD,linecorp
+
+#网易云音乐
+DOMAIN-SUFFIX,music.126.net
