@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,missav.com
 
 # Pikpack full match domain
 DOMAIN,mypikpak.com
+DOMAIN,mypikpak.net
 
 # VPN
 DOMAIN-KEYWORD,socloud
