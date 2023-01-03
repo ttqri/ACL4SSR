@@ -99,3 +99,6 @@ DOMAIN-SUFFIX,zhihu.com
 # VPN
 DOMAIN-KEYWORD,socloud
 DOMAIN-KEYWORD,ikuuu
+
+# Gmail
+DOMAIN-KEYWORD,mail.google
