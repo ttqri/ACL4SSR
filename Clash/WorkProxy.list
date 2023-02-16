@@ -87,9 +87,6 @@ DOMAIN-SUFFIX,xiaoka.tv
 # zhihu
 DOMAIN-SUFFIX,zhihu.com
 
-# PT
-DOMAIN-KEYWORD,m-team
-
 # VPN
 DOMAIN-KEYWORD,socloud
 DOMAIN-KEYWORD,ikuuu
