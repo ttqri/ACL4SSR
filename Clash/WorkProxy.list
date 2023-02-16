@@ -57,16 +57,6 @@ DOMAIN-SUFFIX,xiami.net
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
 
-# JD
-DOMAIN-SUFFIX,360buy.com
-DOMAIN-SUFFIX,360buyimg.com
-DOMAIN-SUFFIX,jcloudcs.com
-DOMAIN-SUFFIX,jd.com
-DOMAIN-SUFFIX,jd.hk
-DOMAIN-SUFFIX,jdcloud.com
-DOMAIN-SUFFIX,jdpay.com
-DOMAIN-SUFFIX,paipai.com
-
 # NetEase
 DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,126.net
@@ -94,7 +84,11 @@ DOMAIN-SUFFIX,weibocdn.cn
 DOMAIN-SUFFIX,weibocdn.com
 DOMAIN-SUFFIX,xiaoka.tv
 
+# zhihu
 DOMAIN-SUFFIX,zhihu.com
+
+# PT
+DOMAIN-KEYWORD,m-team
 
 # VPN
 DOMAIN-KEYWORD,socloud
