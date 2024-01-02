@@ -33,7 +33,6 @@
 (^|\.)\w*admaster\w*\.\w*$
 (^|\.)\w*adsage\w*\.\w*$
 (^|\.)\w*adsensor\w*\.\w*$
-(^|\.)\w*adservice\w*\.\w*$
 (^|\.)\w*adsmogo\w*\.\w*$
 (^|\.)\w*adsrvmedia\w*\.\w*$
 (^|\.)\w*adsserving\w*\.\w*$
@@ -55,7 +54,6 @@
 (^|\.)\w*supersonicads\w*\.\w*$
 (^|\.)\w*tracking\w*\.\w*$
 (^|\.)\w*umeng\w*\.\w*$
-(^|\.)\w*usage\w*\.\w*$
 (^|\.)\w*wlmonitor\w*\.\w*$
 (^|\.)\w*zjtoolbar\w*\.\w*$
 (^|\.)ad\d{0,3}\..*$
@@ -172,7 +170,6 @@
 (^|\.)baidu9635\.com$
 (^|\.)baidustatic\.com$
 (^|\.)baidutv\.baidu\.com$
-(^|\.)baikebcs\.bdimg\.com$
 (^|\.)banlv\.baidu\.com$
 (^|\.)bar\.baidu\.com$
 (^|\.)bdplus\.baidu\.com$
@@ -1634,11 +1631,6 @@
 (^|\.)biligame\.net$
 (^|\.)hdslb\.com$
 (^|\.)im9\.com$
-
-# Blizzard
-(^|\.)battle\.net$
-(^|\.)battlenet\.com$
-(^|\.)blizzard\.com$
 
 # ByteDance
 (^|\.)bytedance\.com$
@@ -12001,7 +11993,6 @@
 (^|\.)oursweb\.net$
 (^|\.)ourtv\.hk$
 (^|\.)overplay\.net$
-(^|\.)oversea\.istarshine\.com$
 (^|\.)owl\.li$
 (^|\.)ow\.ly$
 (^|\.)oyax\.com$
