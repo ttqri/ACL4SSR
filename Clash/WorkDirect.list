@@ -4,7 +4,9 @@
 DOMAIN-KEYWORD,naver
 DOMAIN-KEYWORD,line
 DOMAIN-KEYWORD,works
+# image assets
+DOMAIN-KEYWORD,dthumb-priv
 
-#网易云音乐
+# 网易云音乐, 节约流量
 DOMAIN-SUFFIX,music.126.net
 DOMAIN-SUFFIX,music.163.com
