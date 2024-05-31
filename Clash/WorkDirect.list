@@ -11,3 +11,9 @@ DOMAIN-KEYWORD,dthumb-priv
 # 网易云音乐, 节约流量
 DOMAIN-SUFFIX,music.126.net
 DOMAIN-SUFFIX,music.163.com
+
+# Zoom
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,zoomgov.com
+DOMAIN-SUFFIX,zpns.zoom.us
+DOMAIN-SUFFIX,cloud.zoom.us
