@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliyuncdn.com
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,aliyundrive.com
+DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,dingtalk.com
@@ -84,8 +85,10 @@ DOMAIN-SUFFIX,weibocdn.cn
 DOMAIN-SUFFIX,weibocdn.com
 DOMAIN-SUFFIX,xiaoka.tv
 
-# zhihu
+# Others
 DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xhscdn.com
 
 # VPN
 DOMAIN-KEYWORD,socloud
