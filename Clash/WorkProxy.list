@@ -97,5 +97,6 @@ DOMAIN-KEYWORD,ikuuu
 # Gmail
 DOMAIN-KEYWORD,mail.google
 
-# Stock
+# Financial
 DOMAIN-KEYWORD,eastmoney
+DOMAIN-KEYWORD,1234567
