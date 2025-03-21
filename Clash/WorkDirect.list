@@ -2,7 +2,7 @@
 
 # Work internal
 DOMAIN-KEYWORD,naver
-DOMAIN-KEYWORD,line
+DOMAIN-KEYWORD,\bline\b
 DOMAIN-KEYWORD,works
 DOMAIN-KEYWORD,nfra.io
 # image assets
