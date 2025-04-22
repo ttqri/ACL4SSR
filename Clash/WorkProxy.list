@@ -104,3 +104,6 @@ DOMAIN-KEYWORD,xueqiu
 DOMAIN-KEYWORD,futunn
 DOMAIN-KEYWORD,wallstreetcn
 DOMAIN-KEYWORD,wscn.awtmt.com
+
+# Baidu
+DOMAIN-SUFFIX,baidu.com
