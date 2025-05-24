@@ -1,6 +1,7 @@
 # Proxy for self usage
 
 DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,emonl.com
 
 # Pikpack full match domain
 DOMAIN,mypikpak.com
@@ -11,5 +12,4 @@ DOMAIN,mypikpak.net
 DOMAIN-KEYWORD,socloud
 DOMAIN-KEYWORD,ikuuu
 
-# Fin
-DOMAIN-KEYWORD,futunn
+# Finance
