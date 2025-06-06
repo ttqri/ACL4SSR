@@ -107,3 +107,6 @@ DOMAIN-KEYWORD,wscn.awtmt.com
 
 # Baidu
 DOMAIN-SUFFIX,baidu.com
+
+# Monica
+DOMAIN-SUFFIX,monica.so
