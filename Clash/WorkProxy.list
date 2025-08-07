@@ -94,8 +94,9 @@ DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-KEYWORD,socloud
 DOMAIN-KEYWORD,ikuuu
 
-# Gmail
+# Gemini & Gmail
 DOMAIN-KEYWORD,mail.google
+DOMAIN-KEYWORD,gemini
 
 # Fin
 DOMAIN-KEYWORD,eastmoney
