@@ -16,3 +16,7 @@ DOMAIN-KEYWORD,ikuuu
 
 # Monica
 DOMAIN-SUFFIX,monica.so
+
+# Others
+DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,atlassian.com
