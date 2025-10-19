@@ -1,7 +1,9 @@
 # Proxy for self usage
 
 DOMAIN-SUFFIX,missav.com
-DOMAIN-SUFFIX,emonl.com
+DOMAIN-SUFFIX,634.tv
+DOMAIN-SUFFIX,91fc.cc
+
 
 # Pikpack full match domain
 DOMAIN,mypikpak.com
@@ -13,6 +15,7 @@ DOMAIN-KEYWORD,socloud
 DOMAIN-KEYWORD,ikuuu
 
 # Finance
+DOMAIN-KEYWORD,xiaoyinsi
 
 # Monica
 DOMAIN-SUFFIX,monica.so
