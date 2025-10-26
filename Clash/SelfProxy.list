@@ -16,10 +16,18 @@ DOMAIN-KEYWORD,ikuuu
 
 # Finance
 DOMAIN-KEYWORD,xiaoyinsi
+DOMAIN-KEYWORD,perplexity
 
 # Monica
 DOMAIN-SUFFIX,monica.so
 
+# assets
+DOMAIN-SUFFIX,logo.dev
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-KEYWORD,datadoghq
+DOMAIN-KEYWORD,fscdn
+
 # Others
 DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,atlassian.com
+
