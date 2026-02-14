@@ -22,8 +22,9 @@ DOMAIN-KEYWORD,mediadelivery
 DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,addtoany.com
 
-# Monica
+# AI tools
 DOMAIN-SUFFIX,monica.so
+DOMAIN-SUFFIX,ttsreader.com
 
 # assets
 DOMAIN-SUFFIX,logo.dev

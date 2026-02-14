@@ -111,5 +111,6 @@ DOMAIN-KEYWORD,etf818.com
 # Baidu
 DOMAIN-SUFFIX,baidu.com
 
-# Monica
+# AI Tools
 DOMAIN-SUFFIX,monica.so
+DOMAIN-SUFFIX,ttsreader.com
