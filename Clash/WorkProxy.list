@@ -89,6 +89,7 @@ DOMAIN-SUFFIX,xiaoka.tv
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,v1.mk
 
 # VPN
 DOMAIN-KEYWORD,socloud
