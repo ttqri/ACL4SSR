@@ -93,6 +93,7 @@ DOMAIN-SUFFIX,xhscdn.com
 # VPN
 DOMAIN-KEYWORD,socloud
 DOMAIN-KEYWORD,ikuuu
+IP-CIDR,43.132.225.172/32,no-resolve
 
 # Gemini & Gmail
 DOMAIN-KEYWORD,mail.google

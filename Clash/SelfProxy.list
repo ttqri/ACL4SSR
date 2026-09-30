@@ -14,6 +14,7 @@ DOMAIN,mypikpak.net
 # VPN
 DOMAIN-KEYWORD,socloud
 DOMAIN-KEYWORD,ikuuu
+IP-CIDR,43.132.225.172/32,no-resolve
 
 # Finance
 DOMAIN-KEYWORD,xiaoyinsi
